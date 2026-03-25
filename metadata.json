@@ -1,0 +1,7 @@
+{
+  "name": "Carloha Nigeria - Chery Luxury Cars",
+  "description": "High-converting website for Carloha Nigeria, featuring Chery Tiggo series, test drive bookings, and AI-powered car recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
